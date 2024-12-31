@@ -54,9 +54,13 @@ Our task is to model the demand for shared bikes using the available independent
 ## Technologies Used
 
 Python : version 3.11.7
+
 Pandas : version 2.1.4
+
 Seaborn : version 0.12.2
+
 Matplotlib : version 3.8.0
+
 Numpy : version 1.26.4
 
 ## Acknowledgements
